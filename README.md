@@ -18,7 +18,7 @@ var missingKeys = require('missing-keys');
 
 var config = {
     name: 'missing-keys',
-    description: 'Return missing keys if the given object hasn't all required keys.',
+    description: 'Return missing keys if the given object has not all required keys.',
     version: '0.1.0',
     homepage: 'https://github.com/tobiasoberrauch/missing-keys',
     author: 'Tobias Oberrauch <tobias.oberrauch@grolba.com>'
