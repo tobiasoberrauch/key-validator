@@ -1,4 +1,4 @@
-# has-keys
+# missing-keys
 
 > Return missing keys if the given object hasn't all required keys.
 
