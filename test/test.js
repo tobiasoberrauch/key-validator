@@ -32,7 +32,7 @@ describe('missingKeys', function () {
 
   it('should return the missing key(s) when one or more key is missing', function () {
     assert.deepEqual(
-      missingKeys(config, ['name', 'foo']),
+      missingKeys(config, 'foo'),
       ['foo']
     );
   });
