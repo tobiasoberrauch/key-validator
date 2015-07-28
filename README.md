@@ -1,5 +1,4 @@
-# Find missing object keys
-## (node and browser support)
+# Find missing object keys (node and browser support)
 [![Travis CI](https://img.shields.io/travis/tobiasoberrauch/missing-keys.svg)](https://travis-ci.org/tobiasoberrauch/missing-keys)
 [![Downloads average per month](https://img.shields.io/npm/dm/missing-keys.svg)](https://www.npmjs.com/package/missing-keys)
 [![Npm version](https://img.shields.io/npm/v/missing-keys.svg)](https://www.npmjs.com/package/missing-keys)
