@@ -1,8 +1,8 @@
 # missing-keys
-![Travis CI](https://img.shields.io/travis/tobiasoberrauch/missing-keys.svg)
-![Downloads average per month](https://img.shields.io/npm/dm/missing-keys.svg)
-![Version](https://img.shields.io/npm/v/missing-keys.svg)
-![Ddepedencies](https://img.shields.io/david/dev/tobiasoberrauch/missing-keys.svg)
+![https://img.shields.io/travis/tobiasoberrauch/missing-keys.svg](https://travis-ci.org/tobiasoberrauch/missing-keys)
+![Downloads average per month][https://img.shields.io/npm/dm/missing-keys.svg]
+![Version][https://img.shields.io/npm/v/missing-keys.svg]
+![Depedencies][https://img.shields.io/david/dev/tobiasoberrauch/missing-keys.svg]
 
 
 Return missing keys if the given object hasn't all required keys.
@@ -49,8 +49,8 @@ if (missingKeys.has(config, requiredKeys)) {
 ```
 
 ## Do you like it? Please star it and follow me :)
-![Star on Github](https://img.shields.io/github/stars/tobiasoberrauch/missing-keys.svg?style=social)
-![Follow me on Github](https://img.shields.io/github/followers/tobiasoberrauch.svg?style=social)
+![https://img.shields.io/github/stars/tobiasoberrauch/missing-keys.svg?style=social](https://github.com/tobiasoberrauch/missing-keys)
+![https://img.shields.io/github/followers/tobiasoberrauch.svg?style=social](https://github.com/tobiasoberrauch)
 
 
 ## Running tests
