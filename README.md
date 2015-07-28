@@ -1,8 +1,8 @@
 # missing-keys
-![https://img.shields.io/travis/tobiasoberrauch/missing-keys.svg](https://travis-ci.org/tobiasoberrauch/missing-keys)
-![Downloads average per month][https://img.shields.io/npm/dm/missing-keys.svg]
-![Version][https://img.shields.io/npm/v/missing-keys.svg]
-![Depedencies][https://img.shields.io/david/dev/tobiasoberrauch/missing-keys.svg]
+[![Travis CI](https://img.shields.io/travis/tobiasoberrauch/missing-keys.svg)](https://travis-ci.org/tobiasoberrauch/missing-keys)
+![Downloads average per month](https://img.shields.io/npm/dm/missing-keys.svg)
+![Version](https://img.shields.io/npm/v/missing-keys.svg)
+![Depedencies](https://img.shields.io/david/dev/tobiasoberrauch/missing-keys.svg)
 
 
 Return missing keys if the given object hasn't all required keys.
