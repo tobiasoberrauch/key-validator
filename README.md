@@ -49,8 +49,8 @@ if (missingKeys.has(config, requiredKeys)) {
 ```
 
 ## Do you like it? Please star it and follow me :)
-![https://github.com/tobiasoberrauch/missing-keys](https://img.shields.io/github/stars/tobiasoberrauch/missing-keys.svg?style=social)
-![https://github.com/tobiasoberrauch](https://img.shields.io/github/followers/tobiasoberrauch.svg?style=social)
+[![Star on Github](https://img.shields.io/github/stars/tobiasoberrauch/missing-keys.svg?style=social)](https://github.com/tobiasoberrauch/missing-keys)
+[![Follow me on Github](https://img.shields.io/github/followers/tobiasoberrauch.svg?style=social)](https://github.com/tobiasoberrauch)
 
 
 ## Running tests
