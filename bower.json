@@ -1,7 +1,7 @@
 {
   "name": "missing-keys",
   "main": "index.js",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "homepage": "https://github.com/tobiasoberrauch/missing-keys",
   "authors": [
     "Tobias Oberrauch <tobias.oberrauch@grolba.com>"
