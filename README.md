@@ -53,7 +53,7 @@ if (missingKeys.has(config, requiredKeys)) {
 ```
 
 ## Usage in browser
-``
+```
 <script type="text/javascript" src="./bower_components/missing-keys/index.js"></script>
 <script type="text/javascript">
 var config = {
@@ -78,7 +78,7 @@ if (missingKeys.has(config, requiredKeys)) {
   var keys = missingKeys.get(config, requiredKeys);
 }
 </script>
-``
+```
 
 ## Do you like it? Please star it and follow me :)
 [![Star on Github](https://img.shields.io/github/stars/tobiasoberrauch/missing-keys.svg?style=social)](https://github.com/tobiasoberrauch/missing-keys)
