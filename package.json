@@ -18,7 +18,8 @@
   },
   "scripts": {
     "test": "mocha",
-    "publish": "npm publish"
+    "publish": "npm publish",
+    "browserify": "browserify index.js -o browser.js"
   },
   "devDependencies": {
     "chai": "^3.2.0",

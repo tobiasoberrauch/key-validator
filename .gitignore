@@ -1,6 +1,7 @@
 *.DS_Store
 *.sublime-*
 node_modules
+bower_components
 npm-debug.log
 test
 TODO.md
