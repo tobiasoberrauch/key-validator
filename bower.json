@@ -1,0 +1,18 @@
+{
+  "name": "missing-keys",
+  "main": "browser.js",
+  "version": "0.1.3",
+  "homepage": "https://github.com/tobiasoberrauch/missing-keys",
+  "authors": [
+    "Tobias Oberrauch <tobias.oberrauch@grolba.com>"
+  ],
+  "description": "Return missing keys if the given object hasn't all required keys.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
