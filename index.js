@@ -13,6 +13,13 @@
     module.exports = factory();
   }
   else if (typeof window === "object") {
+    // poly-fill when array.filter doesn't exists
+    [].filter || (Array.prototype.filter = function (a, b, c, d, e) {
+      c = this;
+      d = [];
+      for (e in c)~~e + '' == e && e >= 0 && a.call(b, c[e], +e, c) && d.push(c[e]);
+      return d
+    });
     window.missingKeys = factory();
   }
 }(function () {
