@@ -7,6 +7,16 @@
 
 > Return missing keys if the given object hasn't all required keys.
 
+```
+var config = {
+    name: 'missing-keys',
+    description: 'Return missing keys if the given object has not all required keys.'
+};
+var requiredConfigKeys = ['name', 'author'];
+missingKeys.get(config, requiredConfigKeys);
+//-> ['author']
+```
+
 ## Can I improve something or help you?
 [Just open an issue](https://github.com/tobiasoberrauch/missing-keys/issues/new) and I will help you :)
 
