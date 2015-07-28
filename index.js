@@ -18,11 +18,12 @@
 }(function () {
   /**
    *
-   * @param object
-   * @param expectedKeys
+   * @param {object} object
+   * @param {string|object} expectedKeys
    * @returns {Array.<T>|*}
    */
   function missingKeys(object, expectedKeys) {
+    expectedKeys = Object.prototype.toString.call(expectedKeys) === '[object Array]' ? expectedKeys : [expectedKeys];
     var actualKeys = Object.keys(object);
     return expectedKeys.filter(function (expectedKey) {
       return actualKeys.indexOf(expectedKey) === -1;
@@ -36,8 +37,8 @@
 
   /**
    *
-   * @param object
-   * @param expectedKeys
+   * @param {object} object
+   * @param {string|object} expectedKeys
    * @returns {boolean}
    */
   missingKeys.has = function (object, expectedKeys) {
