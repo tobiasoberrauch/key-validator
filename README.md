@@ -1,4 +1,6 @@
 # Find missing object keys (node and browser support)
+
+[![Join the chat at https://gitter.im/tobiasoberrauch/missing-keys](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tobiasoberrauch/missing-keys?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![npm package](https://nodei.co/npm/missing-keys.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/missing-keys/)
 
 [![Build status](https://img.shields.io/travis/tobiasoberrauch/missing-keys.svg?style=flat-square)](https://travis-ci.org/tobiasoberrauch/missing-keys)
